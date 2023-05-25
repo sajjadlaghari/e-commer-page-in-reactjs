@@ -28,7 +28,7 @@ const Header = () => {
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
-                     <div class="logo"><Link to="index.html"><img src="images/logo.png" /></Link></div>
+                     <div class="logo"><Link to="/"><img src="images/footerlogo.png" style={{ height:'200px' }} /></Link></div>
                   </div>
                </div>
             </div>
