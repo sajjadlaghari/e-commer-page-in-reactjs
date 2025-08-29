@@ -4,7 +4,6 @@ npm installl
 
 ```
 ### After run project
-
 ```
 npm start
 ```
